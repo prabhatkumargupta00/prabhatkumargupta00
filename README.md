@@ -8,9 +8,9 @@ I am a MERN stack developer experienced in building scalable, secure web applica
 * 🚀 I'm currently learning and refining my skills in MERN stack development.
 
 ---
-
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prabhat-kumar-dev) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/prabhatkumargupta00)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prabhat-kumar-dev) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prabhatkumargupta00)
 
 ---
 
