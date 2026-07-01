@@ -5,11 +5,12 @@
 I am a MERN stack developer experienced in building scalable, secure web applications using React.js, Node.js, Express.js, and MongoDB. I am skilled in REST APIs, RBAC authentication, performance optimization, and writing clean, maintainable code with efficient backend architecture.
 
 * 📩 You can contact me at [pkumargupta9162@gmail.com](mailto:pkumargupta9162@gmail.com)
+* 💼 Explore my work and live applications on my [Portfolio Website](https://prabhatkumargupta00.github.io/Portfolio/)
 * 🚀 I'm currently learning and refining my skills in MERN stack development.
 
 ---
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prabhat-dev0)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prabhat-dev0) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prabhatkumargupta00)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230078D4.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prabhatkumargupta00.github.io/Portfolio)
 
